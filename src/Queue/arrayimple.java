@@ -86,5 +86,6 @@ public class arrayimple {
         q.display();
         System.out.println("peek: " + q.peek());
         q.display();
+        System.out.println("is full? "+q.isFull());
     }
 }
